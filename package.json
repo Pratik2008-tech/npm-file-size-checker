@@ -1,0 +1,23 @@
+{
+  "name": "npm-file-size-checker",
+  "version": "1.0.0",
+  "description": "A file size checker that checks the size of a file and displays the result in KB, MB, or GB, making it easy to understand how much space a file takes.",
+  "keywords": [
+    "file-size-checker"
+  ],
+  "homepage": "https://github.com/Pratik2008-tech/npm-file-size-checker#readme",
+  "bugs": {
+    "url": "https://github.com/Pratik2008-tech/npm-file-size-checker/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pratik2008-tech/npm-file-size-checker.git"
+  },
+  "license": "ISC",
+  "author": "Pratik kailas suralkar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  }
+}
